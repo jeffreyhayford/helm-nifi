@@ -12,6 +12,6 @@ entries:
     - nifi
     name: nifi
     urls:
-    - https://github.com/jeffreyhayford/helm-nifi/raw/main/nifi-1.0.0.tgz
+    - https://github.com/jeffreyhayford/helm-nifi/raw/github-pages/nifi-1.0.0.tgz
     version: 1.0.0
 generated: "2023-05-12T15:21:12.359476988Z"
